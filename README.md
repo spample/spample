@@ -18,6 +18,7 @@
 - 👁️ [**EyeTrackerProject**](https://github.com/UTSA-EPICS/EyeTrackerProject) – Assistive eye-tracking system for ALS patients  
 - 🚗 [**Android Car Controller**](https://github.com/UTSA-EPICS/Arduino-RC-Car-Bot/tree/Android-Phone-Controller) – Control an RC car via Bluetooth Android app  
 - 🐈‍⬛ [**Learn GitHub**](https://github.com/UTSARobotics/RAS-GitHub-Git-Workshop) – Git/GitHub basics workshop repo
+- 🐵 [**San Antonio Zoo: Gibbons Project**](https://github.com/UTSA-EPICS/EPICS-Zoo-Gibbons-Button) – Gibbons Water Project for the San Antonio Zoo
 
 ---
 
