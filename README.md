@@ -6,7 +6,7 @@
 <div align="center">
 
 🎓 Electrical and Computer Engineering @ UTSA’s Klesse College of Engineering  
-⚡ Member of <a href="https://github.com/UTSA-EPICS">UTSA EPICS</a> | 🤖 <a href="https://github.com/UTSARobotics">UTSA Robotics</a>  
+⚡ Officer in <a href="https://github.com/UTSA-EPICS">UTSA EPICS</a> | 🤖 <a href="https://github.com/UTSARobotics">UTSA Robotics</a>  
 💡 Embedded systems | Computer vision | Open Source  
 
 </div>
