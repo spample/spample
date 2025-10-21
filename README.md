@@ -19,8 +19,8 @@
 - 🚗 [**Android Car Controller**](https://github.com/UTSA-EPICS/Arduino-RC-Car-Bot/tree/Android-Phone-Controller) – Control an RC car via Bluetooth Android app  
 - 🐈‍⬛ [**Learn GitHub**](https://github.com/UTSARobotics/RAS-GitHub-Git-Workshop) – Git/GitHub basics workshop repo
 - 🐋 [**Learn Docker & ROS2 part 1**](https://github.com/UTSARobotics/Workshop_ROS-Docker_PT1) – Setting up docker with ROS2 image
-- 🤖 [**Learn Docker & ROS2 part 2**](https://github.com/UTSARobotics/Workshop_ROS-Docker_PT1) – ROS2 simulations through a docker container
-- 🔧 [**Learn Docker & ROS2 part 3**](https://github.com/UTSARobotics/Workshop_ROS-Docker_PT1) – Using ROS2 with Arduino through docker
+- 🤖 [**Learn Docker & ROS2 part 2**](https://github.com/UTSARobotics/Workshop_ROS-Docker_PT2) – ROS2 simulations through a docker container
+- 🔧 [**Learn Docker & ROS2 part 3**](https://github.com/UTSARobotics/Workshop_ROS-Docker_PT3) – Using ROS2 with Arduino through docker
 - 🦾 [**3D printed robotic hand mimic**](https://github.com/UTSARobotics/robotic-hand-mimic) – 3D printed robotic hand that mimics the hand of user
 
 ---
