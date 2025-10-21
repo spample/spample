@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3C0008&height=200&section=header&text=Hi%20I'm%20Luis%20Gonzalez&fontSize=40&fontColor=ffffff" alt="banner"/>
 </p>
 
-<div align="center">
-<p align="left">
+<p align="center">
   <link href="assets/ras-logo.png" alt="banner"/>
 </p>
+<div align="center">
 🎓 Electrical and Computer Engineering @ UTSA’s Klesse College of Engineering  
 ⚡ Officer in <a href="https://github.com/UTSA-EPICS">UTSA EPICS</a> | 🤖 <a href="https://github.com/UTSARobotics">UTSA Robotics</a>  
 💡 Embedded systems | Computer vision | Open Source  
